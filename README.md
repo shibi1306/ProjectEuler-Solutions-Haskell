@@ -1,7 +1,7 @@
 # ProjectEuler-Solutions-Haskell
 This repository focuses to solve problems at the website Project Euler using a Functional oriented programming language called Haskell.
 
-[Project Euler](https://projecteuler.net/about) is a wonderful website for practicing mathematical solutions using programming which gave me an idea to practice the problems using the Haskell language. Project Euler is a fantastic website, do check it out!\
+[Project Euler](https://projecteuler.net/about) is a wonderful website for practicing mathematical solutions using programming which gave me an idea to practice the problems using the Haskell language. Project Euler is a fantastic website, do check it out!
 
 ## Run the functions
 1. Make sure you have haskell GHCi installed in your computer.
